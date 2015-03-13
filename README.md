@@ -1,4 +1,3 @@
 # hello-world
-here is a new change...
-
-here is another change
+I'm just learning how to use git/github... It seems similar to merucial, but I
+need to learn these tools too...
