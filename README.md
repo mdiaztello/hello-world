@@ -1,3 +1,3 @@
 # hello-world
-I'm just learning how to use git/github... It seems similar to merucial, but I
+I'm just learning how to use git/github... It seems similar to mercurial, but I
 need to learn these tools too...
